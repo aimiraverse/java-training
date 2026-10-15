@@ -1,6 +1,6 @@
 #  **Java Training Repository**
 
-**Student Information **
+**Student Information**
 - Full Name: Aimira Murzaeva
 - Repository Created: 2026-10-15
 
