@@ -12,3 +12,5 @@
     }
 }
 
+
+![Java programming illustration](java-coffee.png)
