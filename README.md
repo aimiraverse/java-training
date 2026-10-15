@@ -12,5 +12,6 @@
     }
 }
 
+## 🖼️ Java and Programming
 
 ![Java programming illustration](java-coffee.png)
