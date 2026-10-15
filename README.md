@@ -11,7 +11,3 @@
         System.out.println("Hello, GitHub!");
     }
 }
-
-## 🖼️ Java and Programming
-
-![Java programming illustration](java-coffee.png)
